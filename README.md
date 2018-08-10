@@ -2,7 +2,7 @@
 
 ### React-Clicky-Game
 
-Deployed app  [here](https:///).
+Deployed app  [here](https://dinaizida.github.io/react-game/).
 
 # Project Description:
 
