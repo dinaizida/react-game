@@ -1,0 +1,23 @@
+.footer{
+	background-color: #62abe3;
+	color: white;
+	width: 100%;
+	position: relative;
+}
+/* //sticky footer */
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+  }
+  
+  .footer {
+	z-index: 99999999;
+	text-align: center;
+	padding: 5px;
+	margin: 0 auto;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+  }

@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "city1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "city2.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "city3.jpg"
+    },
+    {
+      "id": 4,
+      "image": "city4.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "city5.jpg"
+    },
+    {
+      "id": 6,
+      "image": "city6.jpg"
+    },
+    {
+      "id": 7,
+      "image": "city7.jpg"
+    },
+    {
+      "id": 8,
+      "image": "city8.jpg"
+    },
+    {
+      "id": 9,
+      "image": "city9.jpg"
+    },
+    {
+      "id": 10,
+      "image": "city10.jpg"
+    },
+    {
+      "id": 11,
+      "image": "city11.jpg"
+    },
+    {
+      "id": 12,
+      "image": "city12.jpg"
+    }
+  ]
+  
