@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.8e54d80f.css",
-  "main.css.map": "static/css/main.8e54d80f.css.map",
-  "main.js": "static/js/main.4f5982c0.js",
-  "main.js.map": "static/js/main.4f5982c0.js.map",
+  "main.css": "static/css/main.002011aa.css",
+  "main.css.map": "static/css/main.002011aa.css.map",
+  "main.js": "static/js/main.2ae7cc00.js",
+  "main.js.map": "static/js/main.2ae7cc00.js.map",
   "static/media/city1.jpg": "static/media/city1.4bffa76b.jpg",
   "static/media/city10.jpg": "static/media/city10.4c936545.jpg",
   "static/media/city11.jpg": "static/media/city11.dde949bd.jpg",
@@ -15,5 +15,6 @@
   "static/media/city7.jpg": "static/media/city7.6edb7bf5.jpg",
   "static/media/city8.jpg": "static/media/city8.c892679b.jpg",
   "static/media/city9.jpg": "static/media/city9.8421fa68.jpg",
+  "static/media/favicon.png": "static/media/favicon.b416b911.png",
   "static/media/header.jpg": "static/media/header.c74e4463.jpg"
 }
