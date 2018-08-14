@@ -12,7 +12,8 @@ body {
   background-color: #76b4e4c6;
 }
 h1, h2 {
-  color: #76b4e4c6;
+  /* color: #76b4e4c6; */
+  color:#ffe0b2;
   text-shadow: 0 1px 0 #ccc, 
              0 2px 0 #c9c9c9,
              0 3px 0 #bbb,
@@ -30,14 +31,3 @@ h1{
   font-weight: bolder;
 }
 
-@media (max-width: 375px) {
-   
-  
-  h1,h2 {
-		font-size: 1.3em;
-			   
-  }
-
-  
- 
-}

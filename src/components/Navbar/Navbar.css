@@ -3,7 +3,13 @@
   text-align: center;
  
 }
-
+.message{
+  color:#0277bd
+}
+.score{
+  color: #ffd180;
+ 
+}
 .itemLeft {
   width: 15%;
 }
@@ -41,5 +47,14 @@ a{
   }
   a{
     font-size: 0.6em;
+  }
+  .message{
+    font-size: 0.5em;
+  }
+  .score{
+    color: #ffab00;
+    background-color: rgba(255, 255, 255, 0.776);
+    font-size: 1.7em;
+    font-weight: bold;
   }
 }

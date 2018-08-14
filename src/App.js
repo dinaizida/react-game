@@ -14,7 +14,7 @@ class App extends Component {
     clickedCity: [],
     score: 0,
     topScore: 0,
-    info: 'Click an image to begin!',
+    info: 'Click on an image to begin!',
   };
 
 //when you click on a card ... the City is taken out of the array
@@ -71,13 +71,14 @@ class App extends Component {
           message={this.state.info}
         />
         <Header />
-        <div className="wrapper">
+        <div className="col m10 s12 wrapper">
           {this.state.city.map(city => (
             <CityCard
               imageClick={this.imageClick}
               id={city.id}
               key={city.id}
               image={city.image}
+              name={city.name}
             />
           ))}
         </div>

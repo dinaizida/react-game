@@ -1,6 +1,6 @@
 .footer{
 	background-color: #62abe3;
-	color: white;
+	color:#ffe0b2;
 	width: 100%;
 	position: relative;
 }
@@ -10,7 +10,9 @@ body {
 	min-height: 100vh;
 	flex-direction: column;
   }
-  
+  a{
+		color:#ffe0b2;
+	}
   .footer {
 	z-index: 99999999;
 	text-align: center;
