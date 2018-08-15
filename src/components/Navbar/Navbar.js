@@ -9,7 +9,7 @@ const Navbar = ({ score, topScore, message }) => {
 			<nav>
 				<div className=' nav-wrapper row blue center-align flow-text navbar-fixed-top'>
 				<div className='col m4 s6' href="#">
-				<a href='/'><img src={logo} className="App-logo logo d-inline-block align-top" height="60" alt="logo" /></a>
+				<a href='https://dinaizida.github.io/react-game/'><img src={logo} className="App-logo logo d-inline-block align-top" height="60" alt="logo" /></a>
                </div>
 					<div className='col m4 s6'>
 						<span className ="btn pulse orange accent-1 message">{message}</span>
