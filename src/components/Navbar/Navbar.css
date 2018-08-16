@@ -23,7 +23,7 @@
 }
 
 .navbar-fixed {
-  /* background: #62abe3;; */
+ 
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
   margin-top: 0%;
 }
@@ -39,14 +39,7 @@ body {
 a{
   font-size: 1em;
 }
-App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
-}
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-} 
+
 @media (max-width: 375px) {
    
   span{

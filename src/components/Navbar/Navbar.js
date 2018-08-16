@@ -2,13 +2,13 @@
 // export default Navbar;
 import React from 'react';
 import "./Navbar.css";
-import logo from './logo.png';
+import logo from './logo.png';//to display logo 
 const Navbar = ({ score, topScore, message }) => {
 	return (
 		<div className='navbar-fixed'>
 			<nav>
 				<div className=' nav-wrapper row blue center-align flow-text navbar-fixed-top'>
-				<div className='col m4 s6' href="#">
+				<div className='col m4 s6' >
 				<a href='https://dinaizida.github.io/react-game/'><img src={logo} className="App-logo logo d-inline-block align-top" height="60" alt="logo" /></a>
                </div>
 					<div className='col m4 s6'>
